@@ -1,4 +1,14 @@
+body{
+    background-color: rgb(66, 109, 89);
+    
+}
+
+p{
+    text-align: right;
+}
+
 #appBg{
+    margin: 0 auto;
     height: 420px;
     width: 300px;
     border: 1px solid black;
