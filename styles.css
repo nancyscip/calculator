@@ -1,3 +1,4 @@
+@media only screen and (min-width : 901px){
 body{
     background-color: rgb(66, 109, 89);
     
@@ -56,4 +57,5 @@ p{
 #appBg .gray{
     background-color: gray !important;
     color: white;
+}
 }
